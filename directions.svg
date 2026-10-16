@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="464" viewBox="0 0 1200 464" role="img" aria-label="关注方向：大模型算法、AI Infra、数据、Agent、服务端开发">
+<defs>
+<radialGradient id="glow0" cx="1" cy="0" r="1"><stop offset="0" stop-color="#5EEAD4" stop-opacity="0.22"/><stop offset="0.6" stop-color="#5EEAD4" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5EEAD4" stop-opacity="0.7"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0.08"/></linearGradient>
+<radialGradient id="glow1" cx="1" cy="0" r="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.22"/><stop offset="0.6" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.7"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0.08"/></linearGradient>
+<radialGradient id="glow2" cx="1" cy="0" r="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.22"/><stop offset="0.6" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.7"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0.08"/></linearGradient>
+<radialGradient id="glow3" cx="1" cy="0" r="1"><stop offset="0" stop-color="#F472B6" stop-opacity="0.22"/><stop offset="0.6" stop-color="#F472B6" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F472B6" stop-opacity="0.7"/><stop offset="1" stop-color="#F472B6" stop-opacity="0.08"/></linearGradient>
+<radialGradient id="glow4" cx="1" cy="0" r="1"><stop offset="0" stop-color="#FBBF24" stop-opacity="0.22"/><stop offset="0.6" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBBF24" stop-opacity="0.7"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0.08"/></linearGradient>
+<linearGradient id="ctaBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1B4B"/><stop offset="0.5" stop-color="#3B1D6E"/><stop offset="1" stop-color="#5B1A55"/></linearGradient>
+<linearGradient id="ctaEdge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+</defs>
+<style>.t{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans SC", sans-serif;} .m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;} .arrow{animation:nudge 1.8s ease-in-out infinite;} @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}</style>
+<g transform="translate(0,0)">
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="#0F1430"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="url(#glow0)"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="none" stroke="url(#edge0)" stroke-width="1.5"/>
+<text class="m" x="30" y="44" font-size="13" font-weight="700" letter-spacing="2" fill="#5EEAD4">01 · LLM ALGORITHM</text>
+<text class="t" x="30" y="90" font-size="27" font-weight="800" fill="#F8FAFC">大模型算法</text>
+<rect x="30" y="104" width="36" height="3" rx="1.5" fill="#5EEAD4"/>
+<circle cx="34" cy="134" r="3" fill="#5EEAD4" fill-opacity="0.85"/>
+<text class="t" x="48" y="140" font-size="17" font-weight="500" fill="#CBD5E1">预训练 · 后训练 · RL</text>
+<circle cx="34" cy="162" r="3" fill="#5EEAD4" fill-opacity="0.85"/>
+<text class="t" x="48" y="168" font-size="17" font-weight="500" fill="#CBD5E1">多模态理解 · Frontier 研究</text>
+<circle cx="34" cy="190" r="3" fill="#5EEAD4" fill-opacity="0.85"/>
+<text class="t" x="48" y="196" font-size="17" font-weight="500" fill="#CBD5E1">评测 · 数据策略</text>
+</g>
+<g transform="translate(412,0)">
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="#0F1430"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="url(#glow1)"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="none" stroke="url(#edge1)" stroke-width="1.5"/>
+<text class="m" x="30" y="44" font-size="13" font-weight="700" letter-spacing="2" fill="#A78BFA">02 · AI INFRA</text>
+<text class="t" x="30" y="90" font-size="27" font-weight="800" fill="#F8FAFC">AI Infra</text>
+<rect x="30" y="104" width="36" height="3" rx="1.5" fill="#A78BFA"/>
+<circle cx="34" cy="134" r="3" fill="#A78BFA" fill-opacity="0.85"/>
+<text class="t" x="48" y="140" font-size="17" font-weight="500" fill="#CBD5E1">训练 / 推理框架</text>
+<circle cx="34" cy="162" r="3" fill="#A78BFA" fill-opacity="0.85"/>
+<text class="t" x="48" y="168" font-size="17" font-weight="500" fill="#CBD5E1">高性能算子 · 通信 · 编译器</text>
+<circle cx="34" cy="190" r="3" fill="#A78BFA" fill-opacity="0.85"/>
+<text class="t" x="48" y="196" font-size="17" font-weight="500" fill="#CBD5E1">分布式存储 · 超算集群</text>
+</g>
+<g transform="translate(824,0)">
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="#0F1430"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="url(#glow2)"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="none" stroke="url(#edge2)" stroke-width="1.5"/>
+<text class="m" x="30" y="44" font-size="13" font-weight="700" letter-spacing="2" fill="#38BDF8">03 · DATA</text>
+<text class="t" x="30" y="90" font-size="27" font-weight="800" fill="#F8FAFC">数据</text>
+<rect x="30" y="104" width="36" height="3" rx="1.5" fill="#38BDF8"/>
+<circle cx="34" cy="134" r="3" fill="#38BDF8" fill-opacity="0.85"/>
+<text class="t" x="48" y="140" font-size="17" font-weight="500" fill="#CBD5E1">预训练数据工程</text>
+<circle cx="34" cy="162" r="3" fill="#38BDF8" fill-opacity="0.85"/>
+<text class="t" x="48" y="168" font-size="17" font-weight="500" fill="#CBD5E1">采集 · 清洗 · 去重流水线</text>
+<circle cx="34" cy="190" r="3" fill="#38BDF8" fill-opacity="0.85"/>
+<text class="t" x="48" y="196" font-size="17" font-weight="500" fill="#CBD5E1">数据平台 · 数据湖</text>
+</g>
+<g transform="translate(0,250)">
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="#0F1430"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="url(#glow3)"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="none" stroke="url(#edge3)" stroke-width="1.5"/>
+<text class="m" x="30" y="44" font-size="13" font-weight="700" letter-spacing="2" fill="#F472B6">04 · AGENT</text>
+<text class="t" x="30" y="90" font-size="27" font-weight="800" fill="#F8FAFC">Agent</text>
+<rect x="30" y="104" width="36" height="3" rx="1.5" fill="#F472B6"/>
+<circle cx="34" cy="134" r="3" fill="#F472B6" fill-opacity="0.85"/>
+<text class="t" x="48" y="140" font-size="17" font-weight="500" fill="#CBD5E1">Agent 框架 · Code Agent</text>
+<circle cx="34" cy="162" r="3" fill="#F472B6" fill-opacity="0.85"/>
+<text class="t" x="48" y="168" font-size="17" font-weight="500" fill="#CBD5E1">Agent 弹性计算</text>
+<circle cx="34" cy="190" r="3" fill="#F472B6" fill-opacity="0.85"/>
+<text class="t" x="48" y="196" font-size="17" font-weight="500" fill="#CBD5E1">沙箱 · RL 环境</text>
+</g>
+<g transform="translate(412,250)">
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="#0F1430"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="url(#glow4)"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="none" stroke="url(#edge4)" stroke-width="1.5"/>
+<text class="m" x="30" y="44" font-size="13" font-weight="700" letter-spacing="2" fill="#FBBF24">05 · BACKEND</text>
+<text class="t" x="30" y="90" font-size="27" font-weight="800" fill="#F8FAFC">服务端开发</text>
+<rect x="30" y="104" width="36" height="3" rx="1.5" fill="#FBBF24"/>
+<circle cx="34" cy="134" r="3" fill="#FBBF24" fill-opacity="0.85"/>
+<text class="t" x="48" y="140" font-size="17" font-weight="500" fill="#CBD5E1">后端 · 分布式系统</text>
+<circle cx="34" cy="162" r="3" fill="#FBBF24" fill-opacity="0.85"/>
+<text class="t" x="48" y="168" font-size="17" font-weight="500" fill="#CBD5E1">研发效率基建 · API</text>
+<circle cx="34" cy="190" r="3" fill="#FBBF24" fill-opacity="0.85"/>
+<text class="t" x="48" y="196" font-size="17" font-weight="500" fill="#CBD5E1">线上服务 · 全栈</text>
+</g>
+<g transform="translate(824,250)">
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="url(#ctaBg)"/>
+<rect x="0.75" y="0.75" width="374.5" height="212.5" rx="20" fill="none" stroke="url(#ctaEdge)" stroke-width="1.5"/>
+<text class="m" x="30" y="44" font-size="13" font-weight="700" letter-spacing="2" fill="#F0ABFC">06 · NOT SURE YET?</text>
+<text class="t" x="30" y="90" font-size="27" font-weight="800" fill="#FFFFFF">还没想清楚方向？</text>
+<text class="t" x="30" y="138" font-size="17" font-weight="500" fill="#E9D5FF">把你的经历发我，</text>
+<text class="t" x="30" y="166" font-size="17" font-weight="500" fill="#E9D5FF">一起看看哪条路更适合你</text>
+<g class="arrow"><text class="t" x="30" y="196" font-size="15" font-weight="700" fill="#FFFFFF">加微信聊聊 →</text></g>
+</g>
+</svg>

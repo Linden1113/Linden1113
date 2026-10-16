@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="好的机会，值得被认真讲清楚。">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0F24"/>
+      <stop offset="0.6" stop-color="#141A3E"/>
+      <stop offset="1" stop-color="#2B1A5E"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="170" rx="24"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans SC", sans-serif; }
+    .wave1 { animation: drift 14s linear infinite; }
+    .wave2 { animation: drift 20s linear infinite reverse; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="170" fill="url(#bg)"/>
+    <g class="wave2">
+      <path d="M0 132 C 150 112, 300 152, 450 132 S 750 112, 900 132 S 1200 152, 1350 132 S 1650 112, 1800 132 L1800 170 L0 170 Z" fill="url(#w2)"/>
+    </g>
+    <g class="wave1">
+      <path d="M0 145 C 100 128, 200 162, 300 145 S 500 128, 600 145 S 800 162, 900 145 S 1100 128, 1200 145 S 1400 162, 1500 145 S 1700 128, 1800 145 L1800 170 L0 170 Z" fill="url(#w1)"/>
+    </g>
+  </g>
+  <text x="600" y="72" text-anchor="middle" font-size="27" font-weight="700" fill="#F8FAFC">好的机会，值得被认真讲清楚。</text>
+  <text x="600" y="106" text-anchor="middle" font-size="14" font-weight="600" letter-spacing="2" fill="#94A3B8">LINDEN LIU · AI TALENT PARTNER · WECHAT mt19102618278</text>
+</svg>
