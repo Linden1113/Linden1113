@@ -1,5 +1,5 @@
 <p>
-  <img src="./masthead.svg" width="100%" alt="你好，我是 Linden。大模型方向技术猎头 —— 帮你找到下一个对的团队。微信 mt19102618278" />
+  <img src="./masthead.svg?v=2" width="100%" alt="你好，我是 Linden。大模型方向技术猎头 —— 帮你找到下一个对的团队。微信 mt19102618278" />
 </p>
 
 <p>
@@ -16,7 +16,7 @@
       <p>正在看机会，或者只是想了解某个团队在做什么，都可以直接找我。</p>
     </td>
     <td width="34%" align="center" valign="middle">
-      <img src="./card.svg" width="240" alt="名片：Linden Liu，大模型方向技术猎头，微信 mt19102618278" />
+      <img src="./card.svg?v=2" width="240" alt="名片：Linden Liu，大模型方向技术猎头，微信 mt19102618278" />
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@
 ## 关注方向
 
 <p>
-  <img src="./fields.svg" width="100%" alt="关注方向：大模型算法、AI Infra、数据、Agent、服务端" />
+  <img src="./fields.svg?v=2" width="100%" alt="关注方向：大模型算法、AI Infra、数据、Agent、服务端" />
 </p>
 
 ## 我能帮你什么
@@ -72,5 +72,5 @@
 **Linden Liu** — 微信 `mt19102618278`（添加请备注「GitHub」）· 所有沟通严格保密
 
 <p>
-  <img src="./footer.svg" width="100%" alt="好的机会，值得被认真讲清楚。微信 mt19102618278" />
+  <img src="./footer.svg?v=2" width="100%" alt="好的机会，值得被认真讲清楚。微信 mt19102618278" />
 </p>
