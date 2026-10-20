@@ -17,6 +17,10 @@
     </td>
     <td width="34%" align="center" valign="middle">
       <img src="./card.svg?v=2" width="240" alt="名片：Linden Liu，大模型方向技术猎头，微信 mt19102618278" />
+      <br />
+      <img src="./wechat-qr.svg" width="130" alt="微信二维码：扫码添加 Linden Liu" />
+      <br />
+      <sub>扫码加微信</sub>
     </td>
   </tr>
 </table>
