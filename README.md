@@ -1,9 +1,9 @@
 <p>
-  <img src="./masthead.svg?v=2" width="100%" alt="你好，我是 Linden。大模型方向技术猎头 —— 帮你找到下一个对的团队。微信 mt19102618278" />
+  <img src="./masthead.svg?v=3" width="100%" alt="你好，我是 Linden。大模型方向技术猎头 —— 帮你找到下一个对的团队。微信 NISHUIXIAOZHU1113" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/WeChat-mt19102618278-141414?style=flat-square&logo=wechat&logoColor=white" alt="WeChat mt19102618278" />
+  <img src="https://img.shields.io/badge/WeChat-NISHUIXIAOZHU1113-141414?style=flat-square&logo=wechat&logoColor=white" alt="WeChat NISHUIXIAOZHU1113" />
   <img src="https://img.shields.io/badge/%E5%9C%A8%E6%8B%9B%E5%9F%8E%E5%B8%82-%E5%8C%97%E4%BA%AC%20%C2%B7%20%E4%B8%8A%E6%B5%B7%20%C2%B7%20%E6%9D%AD%E5%B7%9E%20%C2%B7%20%E6%B7%B1%E5%9C%B3-2F4A7A?style=flat-square" alt="在招城市：北京 · 上海 · 杭州 · 深圳" />
   <img src="https://img.shields.io/badge/Level-%E5%AE%9E%E4%B9%A0%20%C2%B7%20%E6%A0%A1%E6%8B%9B%20%C2%B7%20%E7%A4%BE%E6%8B%9B%20%C2%B7%20%E4%B8%93%E5%AE%B6-6B665E?style=flat-square" alt="实习 · 校招 · 社招 · 专家" />
 </p>
@@ -16,11 +16,7 @@
       <p>正在看机会，或者只是想了解某个团队在做什么，都可以直接找我。</p>
     </td>
     <td width="34%" align="center" valign="middle">
-      <img src="./card.svg?v=2" width="240" alt="名片：Linden Liu，大模型方向技术猎头，微信 mt19102618278" />
-      <br />
-      <img src="./wechat-qr.svg" width="130" alt="微信二维码：扫码添加 Linden Liu" />
-      <br />
-      <sub>扫码加微信</sub>
+      <img src="./card.svg?v=3" width="240" alt="名片：Linden Liu，大模型方向技术猎头，微信 NISHUIXIAOZHU1113" />
     </td>
   </tr>
 </table>
@@ -53,7 +49,7 @@
 ## 关注方向
 
 <p>
-  <img src="./fields.svg?v=2" width="100%" alt="关注方向：大模型算法、AI Infra、数据、Agent、服务端" />
+  <img src="./fields.svg?v=3" width="100%" alt="关注方向：大模型算法、AI Infra、数据、Agent、服务端" />
 </p>
 
 ## 我能帮你什么
@@ -73,8 +69,8 @@
 
 ## 联系我
 
-**Linden Liu** — 微信 `mt19102618278`（添加请备注「GitHub」）· 所有沟通严格保密
+**Linden Liu** — 微信 `NISHUIXIAOZHU1113`（添加请备注「GitHub」）· 所有沟通严格保密
 
 <p>
-  <img src="./footer.svg?v=2" width="100%" alt="好的机会，值得被认真讲清楚。微信 mt19102618278" />
+  <img src="./footer.svg?v=3" width="100%" alt="好的机会，值得被认真讲清楚。微信 NISHUIXIAOZHU1113" />
 </p>
